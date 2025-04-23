@@ -1,9 +1,8 @@
 'use client'
 
-import { OrbitControls, Stars, Text } from '@react-three/drei'
+import { OrbitControls, Stars } from '@react-three/drei'
 import { Canvas } from '@react-three/fiber'
 import React from 'react'
-import NavBar from './NavBar'
 import { Pillar } from '../components/pillar'
 import { Hello } from '../components/Hello'
 
