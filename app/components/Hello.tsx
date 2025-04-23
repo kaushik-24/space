@@ -1,5 +1,5 @@
 
-import React, from 'react'
+import React from 'react'
 import { useGLTF } from '@react-three/drei'
 import { ThreeElements } from '@react-three/fiber'
 
